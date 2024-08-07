@@ -1,7 +1,3 @@
-[<img align="left" width="400" src="/github-metrics.svg" alt="Metrics">](#)
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact">](#)
-
 <!--
 **pulnip/pulnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img align="left" width="48%" src="/github-metrics.svg" alt="Metrics">](https://github.com/lowlighter/metrics)
+[<img align="right" width="48%" height="300" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+
+[<img width="100%" height="1" src="/placeholder.svg">](#)
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics), [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sub>
