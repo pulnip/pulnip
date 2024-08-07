@@ -1,4 +1,6 @@
-[<img src="/github-metrics.svg" alt="Metrics">](#)
+[<img align="left" width="400" src="/github-metrics.svg" alt="Metrics">](#)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact">](#)
 
 <!--
 **pulnip/pulnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
