@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [<img align="left" width="50%" src="/github-metrics.svg" alt="Metrics">](https://github.com/lowlighter/metrics)
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact&hide=html,css,javascript">](https://github.com/anuraghazra/github-readme-stats)
 
 [<img width="100%" height="1" src="/placeholder.svg">](#)
 
