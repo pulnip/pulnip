@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" width="50%" src="/github-metrics.svg" alt="Metrics">](https://github.com/lowlighter/metrics)
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact&hide=html,css,javascript">](https://github.com/anuraghazra/github-readme-stats)
-[<img align="right" width="45%" src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=choiwh1008&theme=github-dark&compact=1&use_back_color=1&use_border=1&use_shadow=0">](https://github.com/2ykwang/solvedac-readme-badge)
+[<img align="left" width="44%" src="/github-metrics.svg" alt="Metrics">](https://github.com/lowlighter/metrics)
+[<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=pulnip">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulnip&langs_count=6&layout=compact&hide=html,css,javascript">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="44%" src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=choiwh1008&theme=github-dark&compact=1&use_back_color=1&use_border=1&use_shadow=0">](https://github.com/2ykwang/solvedac-readme-badge)
 
 [<img width="100%" height="1" src="/placeholder.svg">](#)
 
